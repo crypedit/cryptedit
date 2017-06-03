@@ -1,0 +1,6 @@
+[submodule "block"]
+	path = block
+	url = git@github.com:cryptedit/block.git
+[submodule "transaction"]
+	path = transaction
+	url = git@github.com:cryptedit/transaction.git
